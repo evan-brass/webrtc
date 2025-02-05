@@ -1,0 +1,10 @@
+rtc_enable_google_benchmarks=false
+rtc_enable_grpc=false
+rtc_enable_protobuf=false
+rtc_include_tests=false
+rtc_use_perfetto=false
+rtc_build_examples=false
+rtc_build_tools=false
+
+is_debug=false
+is_official_build=true
